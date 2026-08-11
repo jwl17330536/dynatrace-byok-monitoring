@@ -1,4 +1,4 @@
-# dt-byok-alerting
+# dynatrace-byok-monitoring
 
 **BYOK Key Access Monitor** — a portable [Dynatrace Workflow](https://docs.dynatrace.com/docs/analyze-explore-automate/workflows)
 that detects when a **Bring-Your-Own-Key (BYOK)** encryption key becomes
