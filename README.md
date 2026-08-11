@@ -31,6 +31,18 @@ Each event carries `environment_uuid`, `key_name`, `severity`, `message`,
 2. Detailed setup and workflow behavior: this `README.md`.
 3. Local iteration and rebuild path: `CONTRIBUTING.md`.
 
+## Install Boundary
+
+Required for initial install:
+
+1. `byok-key-access-monitor.workflow.json`
+
+Optional advanced variant:
+
+1. `byok-key-access-monitor.extended.workflow.json`
+
+Source files under `src/` are contributor-facing and only needed when modifying or rebuilding artifacts.
+
 ---
 
 ## 🚀 Deploy in 2 minutes (Upload button)

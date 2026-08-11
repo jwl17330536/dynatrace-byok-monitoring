@@ -9,6 +9,14 @@
 
 ## Deploy (Focused Workflow)
 
+Required install artifact:
+
+1. `byok-key-access-monitor.workflow.json`
+
+Optional advanced artifact:
+
+1. `byok-key-access-monitor.extended.workflow.json`
+
 1. Download `byok-key-access-monitor.workflow.json`.
 2. In Dynatrace, open Workflows and upload the file.
 3. In task `fetch_byok_notifications`, set:
