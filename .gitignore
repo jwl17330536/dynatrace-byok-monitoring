@@ -2,11 +2,21 @@
 node_modules/
 *.log
 
+# Local scaffolding and private notes
+.local/
+local-only/
+docs/local-only/
+*.local.md
+scratch/
+tmp/
+temp/
+
 # Shared secret and local auth hygiene
 .env
 .env.local
 .env.mcp
 .env.*.local
+.envrc
 .secrets.env
 *.secrets.env
 *.token

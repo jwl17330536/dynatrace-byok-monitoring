@@ -18,6 +18,19 @@ dashboard, route it to a third party…).
 Each event carries `environment_uuid`, `key_name`, `severity`, `message`,
 `notification_date`, an `impact` description, and a `byok_dedupe_key`.
 
+## Repository Standards
+
+1. Canonical user install path: `README.md` + `QUICK_START.md`.
+2. Contributor workflow: `CONTRIBUTING.md`.
+3. Release history: `CHANGELOG.md`.
+4. This repository is standalone and does not require `dynatrace-infrastructure-observability-framework`.
+
+## Start Here
+
+1. Fast install path: `QUICK_START.md`.
+2. Detailed setup and workflow behavior: this `README.md`.
+3. Local iteration and rebuild path: `CONTRIBUTING.md`.
+
 ---
 
 ## 🚀 Deploy in 2 minutes (Upload button)
