@@ -1,4 +1,4 @@
-name: Public Release Gate
+name: BYOK Monitor — public gate
 
 on:
   pull_request:

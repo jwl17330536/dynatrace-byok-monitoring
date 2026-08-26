@@ -1,4 +1,4 @@
-name: Repo Boundary Check
+name: BYOK Monitor — repo boundary
 
 on:
   pull_request:
